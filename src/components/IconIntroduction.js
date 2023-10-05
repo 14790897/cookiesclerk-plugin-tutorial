@@ -1,5 +1,6 @@
 //IconIntroduction
 import React, { useState } from 'react'
+import { useSwipeable } from 'react-swipeable';
 
 const ImageSlider = ({ images }) => {
   const [current, setCurrent] = useState(0) // 当前显示的图片索引
@@ -12,8 +13,13 @@ const ImageSlider = ({ images }) => {
     setCurrent(current === 0 ? images.length - 1 : current - 1)
   }
 
+  const handlers = useSwipeable({
+    onSwipedLeft: () => nextSlide(),
+    onSwipedRight: () => prevSlide(),
+  });
+  
   return (
-    <div className="slider relative">
+    <div className="slider relative" {...handlers}>
       <div className="text-2xl font-bold text-center">
         Icon Introduction
       </div>
