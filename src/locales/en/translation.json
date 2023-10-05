@@ -1,0 +1,134 @@
+{
+    "title":{
+      "message": "CookiesClerk",
+      "description": "Title text"
+    },
+    "accountManagement": {
+      "message": "Account Management",
+      "description": "Title for the account management section"
+    },
+    "addAccount": {
+      "message": "Add",
+      "description": "Label for the Add button"
+    },
+    "renameAccount": {
+      "message": "Rename",
+      "description": "Label for the Rename button"
+    },
+    "trackedDomainManagement": {
+      "message": "Tracked Domain Management",
+      "description": "Title for the tracked domain management section"
+    },
+    "domainExample": {
+      "message": "Example: google.com",
+       "description": "Placeholder for the new domain input box"
+    },
+    "addNewDomain": {
+      "message": "Add",
+      "description": "Placeholder for the new domain input box"
+    },
+    "clearCookiesEnabled": {
+      "message": "Enable cookie clearing for new tabs in tracked domains",
+      "description": "Description for the first checkbox"
+    },
+    "modifyLinkEnabled": {
+      "message": "Restrict tracked domain's links to open only in the current tab",
+      "description": "Description for the second checkbox"
+    },
+    "onStartupClearEnabled":{
+      "message": "Clear closed and no-alias cookies on startup",
+      "description": "Description for the third checkbox"
+    },
+    "delete": {
+      "message": "Delete",
+      "description": "Label for the Delete button"
+    },
+    "saveCookiesToAccount": {
+      "message": "Save Cookies To Account",
+      "description": "Title for the Save Cookies button"
+    },
+    "loadCookiesFromAccount": {
+      "message": "Load Cookies From Account",
+      "description": "Title for the Load Cookies button"
+    },
+    "deleteAccount": {
+      "message": "Delete Account",
+      "description": "Title for the Delete Account button"
+    },
+    "deleteAllAccount": {
+      "message": "Delete All Account",
+      "description": "Title for the Delete All Account button"
+    },
+    "clearAllClosedCookies": {
+      "message": "Clear All Closed Cookies",
+      "description": "Title for the Clear All Closed Cookies button"
+    },
+    "clearCookies": {
+      "message": "Clear Cookies",
+      "description": "Title for the Clear Cookies button"
+    },
+    "saveAllCookies": {
+      "message": "Save All Cookies",
+      "description": "Title for the Save All Cookies button"
+    },
+    "loadAllCookies": {
+      "message": "Load All Cookies",
+      "description": "Title for the Load All Cookies button"
+    },
+    "options": {
+      "message": "Options",
+      "description": "open options"
+    },
+    "interfaceIntroduction":{
+      "message": "Cookie Shopper is an extension that manages your browser cookies and helps you to quickly switch between accounts",
+      "description": "Introduction to the interface"
+    },
+    "interfaceIntroduction1":{
+      "message": "This is the area for managing accounts, where you can add and rename accounts. The buttons at the bottom allow you to delete accounts, save cookies to accounts, load cookies from accounts and open new corresponding tabs, clean up all closed accounts, clean up cookies on the current page, and save all account information and reload it all when needed.",
+      "description": "Introduction to the interface1"
+    },
+    "interfaceIntroduction2":{
+      "message": "This is the area for managing tracked domains, where you can add and delete tracked domains. The buttons at the bottom allow you to enable or disable the clearing of cookies for new tabs in tracked domains, restrict links in tracked domains to open only in the current tab, and clear closed and no-alias cookies on startup.",
+      "description": "Introduction to the interface2"
+    },
+    "optionsIntroduction1":{
+      "message": "First, right-click on the plug-in icon, click on options in the pop-up interface to enter the options interface"
+    },
+    "optionsIntroduction2":{
+      "message": "This interface shows all the accounts information, each account has a selection box in front of it, after selecting accounts that needs to be opened, you can click on the bottom of the loading button, it will load corresponding pages at the same time"
+    },
+    "congratulations": {
+      "message": "Congratulations, you have completed the plugin tutorial!",
+      "description": "Header text congratulating the user for completing the plugin tutorial."
+    },
+    "thankYouNote": {
+      "message": "Thank you for your effort and engagement, we hope you enjoyed this tutorial. Feel free to contact us if you have any feedback or questions.",
+      "description": "Appreciation and contact note."
+    },
+    "tutorialBy": {
+      "message": "This tutorial is created by liuweiqing. If you like this tutorial and the plugin, please consider sponsoring the author to support his work.",
+      "description": "Information about the creator of the tutorial and sponsorship."
+    },
+    "sponsorLinkText": {
+      "message": "Click here to sponsor the author",
+      "description": "Text for the sponsorship link."
+    },
+    "mainInterfaceIntroduction":{
+      "message": "Main Interface Introduction"
+    },
+    "optionsIntroduction":{
+      "message": "Options Introduction"
+    },
+    "cookiesClerkGuide":{
+      "message": "CookiesClerk Guide"
+    },
+    "greeting": {
+      "message": "Hello",
+      "description": "Greeting text"
+    },
+    "farewell": {
+      "message": "Goodbye",
+      "description": "Farewell text"
+    }
+  }
+  

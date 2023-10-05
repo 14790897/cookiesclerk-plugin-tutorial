@@ -1,0 +1,134 @@
+{
+    "title":{
+      "message": "Cookies店员",
+      "description": "Title text"
+    },
+     "accountManagement": {
+      "message": "账户管理",
+      "description": "账户管理部分的标题"
+    },
+    "addAccount": {
+      "message": "添加",
+      "description": "添加按钮的标签"
+    },
+    "renameAccount": {
+      "message": "重命名",
+      "description": "重命名按钮的标签"
+    },
+    "trackedDomainManagement": {
+      "message": "追踪域名管理",
+      "description": "追踪域名管理部分的标题"
+    },
+    "domainExample": {
+      "message": "例如: google.com",
+      "description": "域名输入框的占位符"
+    },
+    "addNewDomain": {
+      "message": "添加",
+      "description": "新域名输入框的占位符"
+    },
+    "clearCookiesEnabled": {
+      "message": "开启对追踪域名的新选项卡清除cookie功能",
+      "description": "第一个复选框的描述"
+    },
+    "modifyLinkEnabled": {
+      "message": "限制追踪域名网页的链接只能在当前页面打开",
+      "description": "第二个复选框的描述"
+    },
+    "onStartupClearEnabled": {
+      "message": "在浏览器启动时清除已关闭且无别名的账户信息",
+      "description": "第三个复选框的描述"
+    },
+    "delete": {
+      "message": "删除",
+      "description": "删除按钮的标签"
+    },
+     "saveCookiesToAccount": {
+      "message": "保存Cookies到账户",
+      "description": "保存Cookies按钮的标题"
+    },
+    "loadCookiesFromAccount": {
+      "message": "从账户加载Cookies",
+      "description": "加载Cookies按钮的标题"
+    },
+    "deleteAccount": {
+      "message": "删除账户",
+      "description": "删除账户按钮的标题"
+    },
+    "deleteAllAccount": {
+      "message": "删除所有账户",
+      "description": "删除所有账户按钮的标题"
+    },
+    "clearAllClosedCookies": {
+      "message": "清除所有已关闭的Cookies",
+      "description": "清除所有已关闭的Cookies按钮的标题"
+    },
+    "clearCookies": {
+      "message": "清除Cookies",
+      "description": "清除Cookies按钮的标题"
+    },
+    "saveAllCookies": {
+      "message": "保存所有Cookies",
+      "description": "保存所有Cookies按钮的标题"
+    },
+    "loadAllCookies": {
+      "message": "加载所有Cookies",
+      "description": "加载所有Cookies按钮的标题"
+    },
+      "options": {
+      "message": "选项",
+      "description": "打开选项界面"
+    },
+    "interfaceIntroduction":{
+      "message": "Cookies店员是一个可以管理浏览器Cookies的扩展程序，它可以帮助你在不同的账户之间快速切换",
+      "description": "界面介绍"
+    },
+    "interfaceIntroduction1":{
+      "message": "这里是管理账户的区域，可以在这里添加，重命名账户单通过下方的按钮可以删除账户、保存cookie到账户、从账户里加载cookie，并打开新的对应标签页，清理所有已关闭的账户、清理当前页面的cookie、还可以保存所有账户的信息，在需要的时候全部重新加载出来",
+      "description": "界面介绍1"
+    },
+    "interfaceIntroduction2":{
+      "message": "这里是管理追踪域名的区域，可以在这里添加，删除追踪域名，还可以开启对追踪域名的新选项卡清除cookie功能，限制追踪域名网页的链接只能在当前页面打开，以及在浏览器启动时清除已关闭且无别名的账户信息",
+      "description": "界面介绍2"
+    },
+    "optionsIntroduction1":{
+      "message": "首先右键点击插件图标，在弹出界面中点击options，进入选项界面"
+    },
+    "optionsIntroduction2":{
+      "message": "这个界面中显示了所有账户的信息，每个账户前面都有一个选择框，选择需要打开的账户之后，可以点击下方的加载按钮，将同时加载对应账户信息的网页"
+    },
+    "congratulations": {
+      "message": "恭喜您，您已经完成了插件教程！",
+      "description": "Header text congratulating the user for completing the plugin tutorial."
+    },
+    "thankYouNote": {
+      "message": "感谢您的努力和投入，我们希望您喜欢这个教程。如果您有任何反馈或问题，请随时联系我们。",
+      "description": "Appreciation and contact note."
+    },
+    "tutorialBy": {
+      "message": "本教程由 liuweiqing 创作。如果您喜欢这个教程和插件，请考虑赞助作者以支持他的工作。",
+      "description": "Information about the creator of the tutorial and sponsorship."
+    },
+    "sponsorLinkText": {
+      "message": "点击这里赞助作者",
+      "description": "Text for the sponsorship link."
+    },
+    "mainInterfaceIntroduction":{
+      "message": "主界面介绍"
+    },
+    "optionsIntroduction":{
+      "message": "选项界面介绍"
+    },
+    "cookiesClerkGuide":{
+      "message": "CookiesClerk使用指导"
+    },
+    "greeting": {
+      "message": "Hello",
+      "description": "Greeting text"
+    },
+    "farewell": {
+      "message": "Goodbye",
+      "description": "Farewell text"
+    }
+  }
+  
