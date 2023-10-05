@@ -102,7 +102,7 @@
       "description": "Header text congratulating the user for completing the plugin tutorial."
     },
     "thankYouNote": {
-      "message": "感谢您的努力和投入，我们希望您喜欢这个教程。如果您有任何反馈或问题，请随时联系我们。",
+      "message": "感谢您的努力和投入，我希望您喜欢这个教程。如果您有任何反馈或问题，请随时联系我。",
       "description": "Appreciation and contact note."
     },
     "tutorialBy": {
@@ -121,6 +121,9 @@
     },
     "cookiesClerkGuide":{
       "message": "CookiesClerk使用指导"
+    },
+    "iconIntroduction":{
+      "message": "图标介绍"
     },
     "greeting": {
       "message": "Hello",

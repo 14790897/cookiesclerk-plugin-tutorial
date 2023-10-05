@@ -1,9 +1,12 @@
 //IconIntroduction
 import React, { useState } from 'react'
 import { useSwipeable } from 'react-swipeable';
+import { useTranslation } from "react-i18next";
+
 
 const ImageSlider = ({ images }) => {
   const [current, setCurrent] = useState(0) // 当前显示的图片索引
+  const { t } = useTranslation();
 
   const nextSlide = () => {
     setCurrent(current === images.length - 1 ? 0 : current + 1)
@@ -21,7 +24,7 @@ const ImageSlider = ({ images }) => {
   return (
     <div className="slider relative" {...handlers}>
       <div className="text-2xl font-bold text-center">
-        Icon Introduction
+      {t("iconIntroduction.message")}
       </div>
       <button
         onClick={prevSlide}

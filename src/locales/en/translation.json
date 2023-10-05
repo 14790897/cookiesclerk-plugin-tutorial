@@ -102,7 +102,7 @@
       "description": "Header text congratulating the user for completing the plugin tutorial."
     },
     "thankYouNote": {
-      "message": "Thank you for your effort and engagement, we hope you enjoyed this tutorial. Feel free to contact us if you have any feedback or questions.",
+      "message": "Thank you for your effort and engagement, I hope you enjoyed this tutorial. Feel free to contact me if you have any feedback or questions.",
       "description": "Appreciation and contact note."
     },
     "tutorialBy": {
@@ -121,6 +121,9 @@
     },
     "cookiesClerkGuide":{
       "message": "CookiesClerk Guide"
+    },
+    "iconIntroduction":{
+      "message": "Icon Introduction"
     },
     "greeting": {
       "message": "Hello",
